@@ -9,7 +9,12 @@ I'm a **full-stack software developer** with over **5 years of experience**.
 # Recent Projects
 
 1. [**Squash Up**](https://github.com/AldeaAndrei/squash-up)  
-   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AldeaAndrei&repo=squash-up&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AldeaAndrei&repo=squash-up&theme=dark)](https://github.com/AldeaAndrei/squash-up)
+
+   ![Active Players](https://img.shields.io/endpoint?url=https://squash-up.vercel.app/api/v1/public/stats/players)
+   ![Rounds Last Month](https://img.shields.io/endpoint?url=https://squash-up.vercel.app/api/v1/public/stats/rounds)
+
+
 
 ---
 
