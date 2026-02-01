@@ -27,8 +27,8 @@ I'm a **full-stack software developer** with over **5 years of experience**.
 </div>
 
 <p align="start">
-  <img src="https://img.shields.io/endpoint?url=https://squash-up.vercel.app/api/v1/public/stats/players" alt="Active Players" />
-  <img src="https://img.shields.io/endpoint?url=https://squash-up.vercel.app/api/v1/public/stats/rounds" alt="Rounds Last Month" />
+  <img src="https://img.shields.io/endpoint?url=https://squashup.aldeaandrei.ro/api/v1/public/stats/players" alt="Active Players" />
+  <img src="https://img.shields.io/endpoint?url=https://squashup.aldeaandrei.ro/api/v1/public/stats/rounds" alt="Rounds Last Month" />
 </p>
 
 
