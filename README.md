@@ -39,7 +39,7 @@ I'm a **full-stack software developer** with over **5 years of experience**.
   
   <!-- Top image -->
   <p>
-    <img src="(https://github.com/user-attachments/assets/47ca6f7d-7be2-49c1-8b30-78bd4aba7f65" width="400" alt="Sensor Page" />
+    <img src="(https://github.com/user-attachments/assets/7d16458e-7db5-460f-9674-90a37f3670b7" width="400" alt="Sensor Page" />
   </p>
 
   <!-- Repo card below -->
@@ -52,11 +52,10 @@ I'm a **full-stack software developer** with over **5 years of experience**.
   </sub> -->
 
 </div>
-
 <p align="start">
-  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/v1/public/readings" alt="Total Readings" />
-  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/v1/public/temperature" alt="Last Temperature Reading" />
-  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/v1/public/humidity" alt="Last Humidity Reading" />
+  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/public/readings" alt="Total Readings" />
+  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/public/temperature" alt="Last Temperature Reading" />
+  <img src="https://img.shields.io/endpoint?url=https://home-monitor.aldeaandrei.ro/api/public/humidity" alt="Last Humidity Reading" />
 </p>
 
 
