@@ -39,8 +39,9 @@ I'm a **full-stack software developer** with over **5 years of experience**.
   
   <!-- Top image -->
   <p>
-    <img src="(https://github.com/user-attachments/assets/7d16458e-7db5-460f-9674-90a37f3670b7" width="400" alt="Sensor Page" />
+    <img src="https://github.com/user-attachments/assets/f68c6bac-933d-43e6-ba99-9f04348eec75" width="400" alt="Sensor Page" />
   </p>
+
 
   <!-- Repo card below -->
   <!-- <sub>
